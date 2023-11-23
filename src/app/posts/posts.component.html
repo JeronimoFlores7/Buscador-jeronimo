@@ -1,0 +1,20 @@
+<div class="container">
+    <h1>Articulos</h1>
+    <input type="text" class="form-control" name="filterPost" placeholder="Inserta título de artículo" [(ngModel)]="filterData">
+    <div class="list-articles">
+        <ul>
+            <li *ngFor="let element of data | filter:filterData">
+                <div iv class="card" (click)="onRecordClick(data)">
+                    <h2>{{ element.recordData.dc_title }}</h2>
+                    <ul>
+                        <li>{{ element.recordData.dc_creator }}</li>
+                        <li>{{ element.recordData.dc_subject }}</li>
+                        <li>{{ element.recordData.dc_date }}</li>
+                        <li>{{ element.recordData.dc_type }}</li>
+                        <li>{{ element.recordData.dc_identifier }}</li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
