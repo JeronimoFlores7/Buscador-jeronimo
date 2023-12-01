@@ -5,349 +5,345 @@
         "records": [
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "96511356008",
+                "recordIdentifier": "498573000000",
                 "recordPosition": "191",
                 "recordData": {
-                    "dc_title": "Authorization Control in Collaborative Healthcare Systems",
+                    "dc_title": "EXPERIENCIA DEL ENTRENAMIENTO MUSICAL EN UNA\nUNIVERSIDAD PARTICULAR DE LIMA",
                     "dc_creator": [
-                        "Daisy   Daiqin He",
-                        "Jian   Yang"
+                        "Daniel   Ravelo Franco"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "11840;11840"
+                        "Educación",
+                        "11222"
                     ],
-                    "dc_description": "access control||service composition||web service security||Authorization control||web service collaboration",
-                    "dc_date": "2009",
+                    "dc_description": "música||learning||audioperceptiva||entrenamiento musical",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Macquarie University",
-                        "\"Modern healthcare systems require collaborations between individual social entities such as hospitals, medical centers, emergency services and community services. One of the most critical issues in this setting is security and privacy, i.e., who can access what and based on which condition(s). In the healthcare system that crosses different administrative domains, each business unit has its own security policies defined and enforced. Therefore the challenge is how security policies shall be specified, compared and integrated if necessary depending on the nature of the inter-domain collaboration. In this paper, we discuss the challenging access control issues in cross-domain healthcare systems. A framework is provided to support authorization control in such an environment, which takes collaboration semantics into account, as well as individual participant´s authorization policies.\"",
-                        "Australia",
-                        "0718-1876",
-                        "Chile"
+                        "Universidad Peruana de Ciencias Aplicadas",
+                        "UPC",
+                        "\"El objetivo de la Revolución del Entrenamiento Musical es aprovechar las modernas herramientas tecnológicas para la educación, aplicándolas al entrenamiento auditivo, dentro de un programa de formación musical profesional. En este trabajo, se presentará la experiencia de transformación del curso presencial de Nivelación en Lectura y Entrenamiento Auditivo, de un pregrado universitario de Música, a la modalidad blearning. La modalidad b-learning de este curso se estableció sobre un Aula Virtual en una plataforma Moodle. El trabajo en línea, dentro de esta Aula Virtual, incluyó foros de comunicación, foros académicos, recursos autoinstructivos de entrenamiento auditivo y tareas académicas. La estrategia del trabajo online del curso consideró varios aspectos: 1) Estructura del Aula Virtual",
+                        " 2) Comunicación dentro del Aula Virtual",
+                        " 3) Administración del Aula Virtual",
+                        " 4) Creación y organización de contenidos",
+                        " 5) Planteamiento de una metodología de estudio en línea",
+                        " 6) Diseño y puesta en marcha de las actividades en línea",
+                        " 7) Calificación de las actividades realizadas en línea",
+                        " 8) Evaluación de todo el proceso. Los resultados obligaron a replantear los contenidos del mismo curso en los niveles siguientes debido a los importantes avances alcanzados.\"",
+                        "Perú",
+                        "2223-2516",
+                        "Perú"
                     ],
-                    "dc_language": "en",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=965",
-                    "dc_rights": "Journal of Theoretical and Applied Electronic Commerce Research",
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4985",
+                    "dc_rights": "Revista Digital de Investigación en Docencia Universitaria",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad de Talca",
-                    "dc_source": "Journal of Theoretical and Applied Electronic Commerce Research (Chile) Num.2 Vol.4"
+                    "dc_publisher": "Universidad Peruana de Ciencias Aplicadas",
+                    "dc_source": "Revista Digital de Investigación en Docencia Universitaria (Perú) Num.1 Vol.6"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "373062000000",
+                "recordIdentifier": "477847000000",
                 "recordPosition": "192",
                 "recordData": {
-                    "dc_title": "Cambios en la distribución de especies de Candida aisladas de hemocultivos, en pacientes del Servicio Autónomo Hospital Universitario de Maracaibo, Venezuela",
+                    "dc_title": "CULTURA ESCOLAR-CULTURA DIGITAL: ¿SABERES EN DISPUTA?",
                     "dc_creator": [
-                        "Belinda  Calvo",
-                        "Luzmil  Mesa",
-                        "Armindo  Perozo",
-                        "Maritza  Pineda",
-                        "Haydée  Beltrán-Luengo"
+                        "Patricia Fernanda   Mancebo"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "89704;106458;87091;18518;7935"
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "10945"
                     ],
-                    "dc_description": "Candida||Venezuela||Candidemia||hemocultivos||Servicio Autónomo Hospital Universitario de Maracaibo",
-                    "dc_date": "2010",
+                    "dc_description": "Internet||ubicuidad||Escuela media||clases medias",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Escuela de Medicina",
-                        "Escuela de Bioanálisis",
-                        "Hospital Universitario de Maracaibo",
-                        "Universidad del Zulia",
-                        "LUZ",
-                        "SAHUM",
-                        "\"Se estudió la epidemiología de Candidemias en el Servicio Autónomo Hospital Universitario de Maracaibo (SAHUM), analizándose 78 episodios de Candidemia entre Enero 2007 y Marzo 2010, procedentes de 70 pacientes de ambos sexos y edades entre 15 días y 88 años, hospitalizados en diferentes servicios de SAHUM, de cuyos hemocultivos se aisló Candida sp en el Centro de Referéncia Bacteriológica (CRB) de esa institución. Para la identificación de especies se usó el medio cromogénico Brilliance Candida Agar y Vitek-YBC en el CRB. Adicionalmente, los cultivos fueron evaluados por el método tradicional en el Laboratorio de Micología de la Universidad del Zulia. Las características de los pacientes se tomaron de fichas del CRB. La mediana de la edad de los pacientes fue 17 años. Hubo 8 aislamientos secuenciales. La frecuencia de las especies de Candida fue: C. parapsilosis 51,28%, C. tropicalis 15,38%, C. guilliermondii 11,54%, C. albicans 10,26% C. famata 6,41%, C. glabrata 3,85% y C. krusei 1,28%. El Chi cuadrado indicó que los niños en los servicios no UCI tienen mayor probabilidad de adquirir Candidemias. Se observó un cambio en la frecuencia de especies, por lo tanto se requiere una vigilancia epidemiológica permanente en SAHUM.\"",
-                        "No se conoce",
-                        "República Bolivariana de Venezuela",
-                        "0075-5222",
-                        "República Bolivariana de Venezuela"
+                        "Universidad de Buenos Aires",
+                        "UBA",
+                        "\"En  un  contexto  de  globalización  creciente,  las  Tecnologías  de  la  Información y la Comunicación (TIC) representan un cambio social  profundo y estructural en las formas de conceptualizar y concebir  el  mundo.  Por  incidir  profundamente  en    todos  los  ámbitos  de  la  actividad  humana  no  deben  pensarse  sólo  como  una  mera  herramienta  que  agiliza  múltiples  tareas  pues,  en  las  sociedades  contemporáneas, se han constituido como un saber básico. Particularmente en el campo cultural educativo y ante la atenuación  de  la  hegemonía  socializadora  de  la  escuela  en  la  constitución  de  los sujetos, internet, como ejemplo de las muchas transformaciones  culturales  que  acarrean  las  nuevas  tecnologías,  influye  de  forma  radical sobre las disposiciones subjetivas y perceptivas de los jóvenes  en escolaridad media. Estas nuevas habilidades, plantean además un  nuevo tópico a resolver desde las instituciones escolares respecto a  su correcto uso, desde una perspectiva didáctico-pedagógica.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=3730",
-                    "dc_rights": "Kasmera",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad del Zulia",
-                    "dc_source": "Kasmera (República Bolivariana de Venezuela) Num.2 Vol.38"
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.13 Vol.5"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "672971000000",
+                "recordIdentifier": "477847000000",
                 "recordPosition": "193",
                 "recordData": {
-                    "dc_title": "Preferencia de forrajes introducidos por el ganado vacuno y ovino\nen el Altiplano Boliviano",
+                    "dc_title": "DIMENSIONES DE ANÁLISIS SOBRE LA  CIENCIA  PRODUCIDA EN LA UNIVERSIDAD PÚBLICA EN  AMÉRICA LATINA",
                     "dc_creator": [
-                        "Val Jo   Anderson",
-                        "Gustavo   Troche",
-                        "Rachel   Fugal"
+                        "María   Paz López",
+                        "Nerina   Sarthou"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "22055;110960;22055"
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "11129;11105"
                     ],
-                    "dc_description": "reservas||reservas||preferencia||preferencia||Desierto frío",
-                    "dc_date": "2010",
+                    "dc_description": "Ciencia||tecnología||universidad||dimensiones  de  análisis",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Brigham Young University",
-                        "Benson Agriculture And Food Institute",
-                        "BYU",
-                        "\"La falta de forraje nutricional en el Altiplano Boliviano limita la producción del ganado vacuno y ovino durante la estación seca Una suplementación alimenticia con pastos ricos en energía y arbustos altamente proteínicos puede mejorar el estado nutricional de los animales durante esta estación. Varias pruebas de preferencia alimenticia en ganado vacuno y ovino fueron realizadas durante los meses de febrero y noviembre del 2005, en dos localidades de Bolivia (Letanías y Tiahuanaco) y se determinó la aceptación de doce variedades de pastos y arbustos en vacas y ovejas. Para esta investigación se utilizaron las siguientes variedades: pasto agropiro pubescente (Agropyron trichophorum), pasto pradera (Bromus inermis), pasto agropiro cresta (Hycrest, Agropyron cristatum x A. desertorum), pasto llorón (Eragrostis curvula), pasto huerto (Dactylis glomerata), pasto timoteo (Phleum pratense), salvia negra (Artemisia nova), atriplex de cuatro hojas (Atriplex canescens), atriplex (Atriplex halimus), caoba de montaña (Cercocarpus montanus), maleza amarga (Pursia tridentata), y forraje kochia (Kochia prostrata). Las vacas y las ovejas rechazaron los arbustos en las dos localidades de experimentación. La aceptación de las diferentes especies de pasto fueron significativas (p < 0.01). El pasto agropiro pubescente fue el más significativo (preferido por el ganado) (17% del tiempo), el pasto pradera (9%) y pasto agropiro cresta el menos significativo (5%). En la prueba de experimentación con ganado vacuno no hubo diferencia significativa entre la preferencia de pastos de verano e invierno. Para el ganado ovino la interacción estacional y la preferencia de las diferentes especies de pastos fueron significativas (p < 0.01). En el verano, el pasto agropiro pubescente (24%) y el pasto de pradera (21%) fueron más preferidos que el pasto llorón, (1%). Durante el invierno, la preferencia para el pasto agropiro pubescente disminuyó considerablemente (13%) al igual que el pasto agropiro cresta (16% en febrero y 6% en noviembre). La preferencia por los otros pastos por los ovinos no cambió significativamente.\"",
-                        "Estados Unidos de América",
-                        "Estado Plurinacional de Bolivia",
-                        "1665-1456",
-                        "México"
+                        "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+                        "Universidad Nacional de San Martín",
+                        "UNCPBA",
+                        "UNSAM",
+                        "\"El presente artículo busca organizar la literatura existente sobre la  ciencia y la tecnología generadas en las universidades públicas de la  región latinoamericana. Se considera que en las últimas dos décadas  los aportes sobre cómo se construye el conocimiento científico se  han multiplicado",
+                        " con ello, se han generado interrogantes y se han  ensayado respuestas a una diversidad de cuestiones relativas a las  tareas académicas desarrolladas en la universidad. En este trabajo  se  sostiene  que  cuatro  problemáticas  centrales  han  acaparado  la  atención:  el  financiamiento",
+                        "  la  orientación  de  la  investigación",
+                        "  la  vinculación  con  el  medio  extra-académico  y  la  relación  con  el  ámbito internacional.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=6729",
-                    "dc_rights": "Biotecnia",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad de Sonora",
-                    "dc_source": "Biotecnia (México) Num.3 Vol.12"
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.13 Vol.5"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "651770000000",
+                "recordIdentifier": "477847000000",
                 "recordPosition": "194",
                 "recordData": {
-                    "dc_title": "DE UNA CRÍTICA DELEUZIANA DE LOS DERECHOS HUMANOS HACÍA UNA JURISPRUDENCIA DELEUZIANA DE DERECHOS HUMANOS",
+                    "dc_title": "Aproximación a la violencia laboral en el contexto argentino: reseña de la dimensión cuantitativa",
                     "dc_creator": [
-                        "Javier  Aguirre"
+                        "Liliana E.   Ferrari",
+                        "Graciela L.   Filippi",
+                        "María Carolina   Cebey"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "16250"
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "10945;10945;10945"
                     ],
-                    "dc_description": "Deleuze||derecho||jurisprudencia||derechos humanos",
-                    "dc_date": "2010",
+                    "dc_description": "acoso   laboral||Violencia   laboral||aproximación  cuantitativa",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Universidad Industrial de Santander",
-                        "UIS",
-                        "\"En términos generales el tema que deseo explorar en mi artículo se refiere a la idea de Gilles Deleuze como un filósofo político y del derecho. Para esto me concentraré principalmente en los comentarios de Deleuze sobre los derechos humanos y la jurisprudencia tal y como los expone en la entrevista con Claire Parnet (L’Abécédair). La tesis que quiero defender es que Deleuze no es un oponente de los derechos humanos como tales sino, tan sólo, de cierta forma de concebirlos que los piensa como derechos universales, eternos, abstractos y trascendentes que pertenecen a todo el mundo y a nadie en particular.\"",
-                        "Colombia",
-                        "0258-9702",
-                        "Panamá"
+                        "Universidad de Buenos Aires",
+                        "UBA",
+                        "\"El   presente   trabajo   sintetiza   algunos   aspectos   de   la   labor  investigativa efectuada en el marco de la programación 2008-2010  de  la  Secretaría  de  Ciencia  y Técnica  de  la  Universidad  de  Buenos  Aires,   correspondientes   al   proyecto   de   investigación   Riesgos  psicosociales de los trabajadores. Efectos subjetivos e intersubjetivos  de  la  precarización  laboral  (Código  P015),  con  sede  en  el  Instituto  de Investigaciones de la Facultad de Psicología de la Universidad de  Buenos Aires. Caracterizamos  el  proyecto  en  términos  de  objetivos,  hipótesis  y   aproximación   metodológica.   Tratándose   esta   última   de   un  acercamiento  de  carácter  cuanti-cualitativo,  presentamos  en  esta  oportunidad  algunos  de  los  hallazgos  y  reflexiones  relativos  a  la  dimensión cuantitativa. Los resultados emergen de la aplicación del  cuestionario VAL-MOB –técnica que mide la incidencia de procesos  de acoso laboral –, en una muestra de 690 trabajadores de la Ciudad  Autónoma  de  Buenos  Aires,  Argentina.  Se  exponen  diferencias  significativas  según  el  tipo  de  organización  (pública  o  privada),  la   posición   que   se   ocupa   (operarios,   técnicos   especializados,  conductores) y el género.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=6517",
-                    "dc_rights": "Scientia",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad de Panamá",
-                    "dc_source": "Scientia (Panamá) Num.150"
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.13 Vol.5"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "32713458015",
+                "recordIdentifier": "477847000000",
                 "recordPosition": "195",
                 "recordData": {
-                    "dc_title": "In-flight absolute calibration of the CBERS-2 CCD sensor data",
+                    "dc_title": "Diez tesis sobre el trabajo inmaterial",
                     "dc_creator": [
-                        "Flávio J.  Ponzoni",
-                        "Jurandir  Zullo Junior",
-                        "Rubens A.C.  Lamparelli"
+                        "Pedro   Giordano",
+                        "Juan   Montes Cató"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "7974;22350;22350"
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "10945;44"
                     ],
-                    "dc_description": "CCD||CBERS||reflectance||Absolute calibration",
-                    "dc_date": "2008",
+                    "dc_description": "industrial||sociedad post||fábrica difusa||operario social||Trabajo inmaterial",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Instituto Nacional de Pesquisas Espaciais",
-                        "Universidade Estadual de Campinas",
-                        "INPE",
-                        "UNICAMP",
-                        "\"Since the first images of the sensors on board of CBERS-2 (China-Brazil Earth Resources Satellite) satellite were made available by the National Institute for Space Research (INPE), users have asked information about the conversion of image digital numbers to physical data (radiance or reflectance). This paper describes the main steps that were carried out to calculate the in-flight absolute calibration coefficients for CBERS-2 CCD level 2 (radiometric and geometric correction) images considering the reflectance-based method. Remarks about the preliminary evaluation of these coefficients application are also presented.\"",
-                        "Brasil",
-                        "0001-3765",
-                        "Brasil"
+                        "Universidad de Buenos Aires",
+                        "Consejo Nacional de Investigaciones Científicas y Técnicas",
+                        "UBA",
+                        "CONICET",
+                        "\"Este artículo tiene por objetivo descomponer el marco interpretativo y develar las hipótesis subyacentes sobre las que reposa la propuesta analítica de los autores italianos Lazzarato y Negri, para quienes el rasgo característico de esta época es el proceso mediante el cual el trabajo inmaterial devino hegemónico dentro del modo de producción capitalista a partir de la reestructuración de la fábrica en el transcurso de los años setenta. Para ello presentamos diez tesis desde las cuales pueda precisarse la propuesta analítica y desde allí repensarla críticamente.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
                     ],
-                    "dc_language": "en",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=327",
-                    "dc_rights": "Anais da Academia Brasileira de Ciências",
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Academia Brasileira de Ciências",
-                    "dc_source": "Anais da Academia Brasileira de Ciências (Brasil) Num.2 Vol.80"
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.14 Vol.5"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "427739000000",
+                "recordIdentifier": "477847000000",
                 "recordPosition": "196",
                 "recordData": {
-                    "dc_title": "CASO DE HEMANGIOMA MÚLTIPLE EN RECIÉN NACIDO COMPLICADO CON SÍNDROME DE KASSABACH MERRITT",
+                    "dc_title": "Participación de las Organizaciones de Adultos Mayores en las Políticas Públicas: El Consejo Federal de los Mayores",
                     "dc_creator": [
-                        "NADIA   NORAMBUENA",
-                        "ALEJANDRO   HIGUEREY"
+                        "Adriana   Fassio"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "18510;18510"
+                        "Multidisciplinarias (Ciencias Sociales)",
+                        "11088"
                     ],
-                    "dc_description": "Hemangioma||malformación vascular||Síndrome de Kassabach Merritt",
-                    "dc_date": "2007",
+                    "dc_description": "políticas públicas||Consejos  consultivos||organizaciones  de  personas  mayores",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Universidad de Oriente",
-                        "UDO",
-                        "\"Se presenta un caso de recién nacido femenino (2500 g de peso, 44 cm de talla), obtenida por cesárea segmentaria de 33 semanas + 4 días gemelar (segundo feto) (Apgar de 8 y 9 al primer y quinto minuto), de una madre de 22 años, (en el Hospital Universitario “Antonio Patricio de Alcalá” el 25 de Noviembre de 2005). A las 36 horas fallece por secuestro plaquetario. Autopsia revelo coagulopatía por consumo en áreas de proliferación celular con células cebadas.\"",
-                        "República Bolivariana de Venezuela",
-                        "1315-0162",
-                        "República Bolivariana de Venezuela"
+                        "Universidad Nacional de Mar del Plata",
+                        "UNMdP",
+                        "\"La  participación  de  ciudadanía  en  las  políticas  que  les  incumben  a  través  de  consejos consultivos  es  una  tendencia  de  relevancia  creciente    a  partir  de  la  maduración  de  los procesos  democráticos  en  la  región  y  de    los  debates  promovidos  por  los  organismos nacionales e internacionales. Este artículo se propone realizar una revisión del proceso de conformación, trayectoria,logros  y  pendientes  del  Consejo  Federal  de  los  Mayores  de  la Argentina como un caso de interésen el marco de la participación, en las políticas que les atañen, del  movimientode  personas  mayores  y de sus  organizaciones asociados  con referentes gubernamentales a nivel nacional.\"",
+                        "Argentina",
+                        "0718-5693",
+                        "Chile"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4277",
-                    "dc_rights": "SABER. Revista Multidisciplinaria del Consejo de Investigación de la Universidad de Oriente",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=4778",
+                    "dc_rights": "Revista Electrónica Gestión de las Personas y Tecnología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad de Oriente",
-                    "dc_source": "SABER. Revista Multidisciplinaria del Consejo de Investigación de la Universidad de Oriente (República Bolivariana de Venezuela) Num.2 Vol.19"
+                    "dc_publisher": "Universidad de Santiago de Chile",
+                    "dc_source": "Revista Electrónica Gestión de las Personas y Tecnología (Chile) Num.15 Vol.5"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "373062000000",
+                "recordIdentifier": "70538666006",
                 "recordPosition": "197",
                 "recordData": {
-                    "dc_title": "Editorial",
+                    "dc_title": "Miradas de género a la criminalidad femenina",
                     "dc_creator": [
-                        "Belinda  Calvo Morales"
+                        "Teresa  Salazar",
+                        "Blanca Elisa  Cabral"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "12"
+                        "Sociología",
+                        "18493;46919"
                     ],
-                    "dc_description": null,
-                    "dc_date": "2010",
-                    "dc_type": "editorial",
-                    "dc_identifier": [
-                        "República Bolivariana de Venezuela"
-                    ],
-                    "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=3730",
-                    "dc_rights": "Kasmera",
-                    "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad del Zulia",
-                    "dc_source": "Kasmera (República Bolivariana de Venezuela) Num.2 Vol.38"
-                }
-            },
-            {
-                "recordPacking": "xml",
-                "recordIdentifier": "373062000000",
-                "recordPosition": "198",
-                "recordData": {
-                    "dc_title": "Evaluación de la inmunidad a los virus de sarampión y varicela en niños y adolescentes del Municipio Páez del Estado Zulia, Venezuela",
-                    "dc_creator": [
-                        "Jennifer  Gotera L.",
-                        "Alibeth  Mavárez M.",
-                        "José  Hernández J.",
-                        "Florencio  Añez M.",
-                        "Alegría  Levy G.",
-                        "Anyelo  Duran M.",
-                        "Yraima  Larreal E.",
-                        "Mery  Maldonado E.",
-                        "Luz  Espina G.",
-                        "Nereida  Valero C."
-                    ],
-                    "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "18518;18518;18518;18518;44785;18518;18518;18518;18518;18518"
-                    ],
-                    "dc_description": "varicela||Inmunidad||sarampión||Venezuela||Estado Zulia",
-                    "dc_date": "2009",
+                    "dc_description": "Criminalidad femenina||crítica a los saberes||perspectiva de género",
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Universidad del Zulia",
-                        "Facultad de Medicina",
-                        "LUZ",
-                        "\"Las enfermedades exantemáticas son un grupo de patologías causadas por agentes virales, que se presentan frecuentemente sobre todo durante los primeros añios de vida y responden en su mayor pro porción a infecciones causadas por virus como sarampión, varicela, rubéola y dengue, entre otros. El objetivo de este estudio fue evaluar la inmunidad a los virus de sarampión y varicela en niños y adoles centes, residentes del municipio Páez del estado Zulia. Venezuela. Se estudiaron 174 muestras prove nientes de escolares y adolescentes aparentemente sanos, sin distingo de sexo y en un rango de edad comprendido entre 8 a 17 años, las cuales fueron analizadas mediante la técnica de ELISA. Se detectó una frecuencia de 59.7% para el virus del sarampión y un 44.8% para varicela. La seroprevalencia para sarampión y varicela esturvo homogéneamente distribuida en todos los grupos etarios. En ambas en fermedades se observó una mayor frecuencia en el sexo masculino, no encontrándose diferencias sig nificativas. Se evidencia una baja inmunidad a estos virus, se sugiere incrementar los programas de va cunación en este municipio para eliminar la circulación de estos agentes infecciosos en la población.\"",
+                        "Universidad de los Andes",
+                        "UCV",
+                        "ULA",
+                        "\"Este trabajo aborda la criminalidad femenina a partir de algunas coordenadas teóricas con perspectiva de género, la cual permite un análisis crítico y multidimensional de las relaciones sociales entre los sexos. Se plantea la redefinición y actualización del discurso y práctica de la criminología en la comprensión y transformación de este problema, el cual pasa por una necesaria crítica epistémica teórica y metodológica a los saberes científicos y sus mecanismos de poder, con la finalidad de visibilizar otra cara del problema vinculado a la influencia de la estructura social entre mujeres y hombres en un contexto relacional.\"",
                         "República Bolivariana de Venezuela",
                         "No se conoce",
-                        "0075-5222",
+                        "0798-3069",
                         "República Bolivariana de Venezuela"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=3730",
-                    "dc_rights": "Kasmera",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=705",
+                    "dc_rights": "Fermentum. Revista Venezolana de Sociología y Antropología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad del Zulia",
-                    "dc_source": "Kasmera (República Bolivariana de Venezuela) Num.2 Vol.37"
+                    "dc_publisher": "Universidad de los Andes",
+                    "dc_source": "Fermentum. Revista Venezolana de Sociología y Antropología (República Bolivariana de Venezuela) Num.64 Vol.22"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "181518000000",
+                "recordIdentifier": "70538666008",
+                "recordPosition": "198",
+                "recordData": {
+                    "dc_title": "El Crecimiento Negativo Cualitativo de los Investigadores en la Universidad Venezolana (2008-2011)",
+                    "dc_creator": [
+                        "José Pascual  Mora García"
+                    ],
+                    "dc_subject": [
+                        "Sociología",
+                        "18493"
+                    ],
+                    "dc_description": "Universidad||Investigación||Crecimiento negativo",
+                    "dc_date": "2012",
+                    "dc_type": "artículo científico",
+                    "dc_identifier": [
+                        "Universidad de los Andes",
+                        "ULA",
+                        "\"Recientemente se cometió un genocidio académico, cuando se eliminó por parte del gobierno nacional en el año 2011 la data histórica de 20 años del Programa Sistema de promoción al Investigador (SPI-PPI), programa que establecía el ranking de los investigadores reconocidos nacionalmente. Y aunque había experimentado un crecimiento positivo en sus casi 20 años, pasado de 741 investigadores en 1990 a 6791 para el 2009, se opto por eliminar el programa. En enero de 2011 el Ministerio P. P. de Ciencia y Tecnología convocó a un nuevo Registro Nacional de Innovadores e Investigadores (RNII), pero los resultados obtenidos han menoscabado la tradición de la evaluación de la investigación generando inconformidad por el sesgo ideológico. Aun cuando en términos cuantitativos pareciera que hay un crecimiento al incorporar los llamados innovadores el nuevo Programa de Estímulo a la Innovación e Investigación(PEII), no se presentó las estadísticas de quiénes no aplicaron al programa y que estaban clasificados en los más altos niveles del SPI-PPI. Pues el nuevo sistema sólo convalidó a los investigadores eméritos. Lo cierto es que hay un crecimiento negativo en lo cualitativo si tomamos en cuenta que una tercera parte de los anteriormente clasificados no aplicaron al PEII, además de una campaña de infravaloración hacia los investigadores destacados, que ven cada vez más menguadas las posibilidades de hacer investigación de punta en nuestras universidades, por las reducciones presupuestarias y limitaciones en las políticas de financiamiento de los programas de los Consejo de Desarrollo Científico Humanístico Tecnológico y de las Artes (CDCHTA). Aunque la ciencia no es neutra (Feyerabend) era conveniente que se incluyera un equipo de evaluadores heterodoxo ideológicamente para darle mayor credibilidad al programa.\"",
+                        "República Bolivariana de Venezuela",
+                        "0798-3069",
+                        "República Bolivariana de Venezuela"
+                    ],
+                    "dc_language": "es",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=705",
+                    "dc_rights": "Fermentum. Revista Venezolana de Sociología y Antropología",
+                    "dc_format": "application/pdf",
+                    "dc_publisher": "Universidad de los Andes",
+                    "dc_source": "Fermentum. Revista Venezolana de Sociología y Antropología (República Bolivariana de Venezuela) Num.64 Vol.22"
+                }
+            },
+            {
+                "recordPacking": "xml",
+                "recordIdentifier": "70538667007",
                 "recordPosition": "199",
                 "recordData": {
-                    "dc_title": "El Uso de cal para salvar muros de fortificaciones como un legado de la Arquitectura Militar de la Colonia",
+                    "dc_title": "Psicología social y comunicación contrahegemónica: conociendo la televisora comunitaria venezolana Catia TVe",
                     "dc_creator": [
-                        "Walter   Domínguez Vega"
+                        "Alejandra Astrid  León Cedeño",
+                        "Alexandre  Bonetti Lima",
+                        "Elis Teles  Caetano Silva",
+                        "Herbert  De Proença Lopes"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "29006"
+                        "Sociología",
+                        "22402;22402;22402;22402"
                     ],
-                    "dc_description": "CAL||GIBARA||HOLGUIN||CONSERVACION Y RESTAURACION||FORTIFICACIONES HOLGUINERAS",
-                    "dc_date": "2009",
+                    "dc_description": null,
+                    "dc_date": "2012",
                     "dc_type": "artículo científico",
                     "dc_identifier": [
-                        "Oficina de Monumentos y Sitios Históricos de Holguín",
-                        "\"Se aborda el uso de la cal en la restauración y conservación de las fortificaciones de la línea defensiva Holguin ¿Gibara. Se basa en la tendencia actual para la conservación sostenible de los bienes patrimoniales y culturales que orienta los materiales utilizados en los trabajos de intervención, se detiene sobre la relevancia y alcance histórico cultural del patrimonio fortificado en la provincia de Holguín, describe las características constructivas de sus muros, los morteros utilizados y las dificultades para la conservación de estas. Propone que se revitalice el uso de la cal en obras de conservación.\"",
-                        "Cuba",
-                        "1027-2127",
-                        "Cuba"
+                        "Universidade Estadual de Londrina",
+                        "UEL",
+                        "\"Este proyecto es el resultado de nuestras vivencias y prácticas en el proyecto \"Psicología social y medios comunitarios en América Latina: un estudio con televisoras comunitarias de Brasil, Venezuela, Bolivia y Argentina\", en articulación con el curso de Especialización en Comunicación Popular y Comunitaria de la Universidade Estadual de Londrina. El poder de penetración de los medios de comunicación social, así comolos impactos que vienen produciendo en los últimos siglos en las organizaciones y relaciones sociales cotidianas, pasaron a ser pensados y tulizados ideológicamente como aparatos ideológicos para la reproducción de las relaciones de dominación, en la medida en que se muestran como instrumentos potentes que interfieren en los procesos de subjetivación. Tales medios abren un campo de posibilidades de colonización del mundo vivido por parte del sistema hegemónico, ya que simultáneamente presentifican las voces de los actores de la cotidianidad del mundo vivido, haciéndolas conocidas, y se las devuelven resignificadas y encenadas, buscando cooptar y naturalizar el orden social. Con ello dificultan la visibilidad de construcciones alternativas a este orden. Frente a esto, la comunicación popular y comunitaria surge como posibilidad de una producción comunicativa que se contrapone al tipo de producción de los grandes medios. Las prácticas de comunicación popular y comunitaria señalan una ruptura de esa lógica, estableciéndose como oposición a los estándares hegemónicos de ese orden social, defendiendo la construcción de nuevas realidades y configurándose como movimiento de resistencia a las fuerzas normatizadoras impuestas por los medios de comunicación de masa. En este sentido, su práctica trasciende la noción de una comunicación ejercida en el interior de una comunidad y resuena hacia las formas de organización de los social, con potencia para inventar relaciones diferentes: relaciones comunitarias, que actúan como fuerza militante en la defensa de nuevos modos de vida posibles. A través del trabajo conjunto entre psicología social y comunicación, este proyecto se dispone a trabajar apoyando las potencialidades y las posibles dificultades de construir comunicación contrahegemónica día a día. Pretendemos contribuir con la construcción de una psicología social que, además de analizar críticamente los medios hegemónicos, trabaje en el fortalecimiento de los medios contrahegemónicos a través del trabajo con experiencias de comunicación popular y comunitaria en América Latina, entre las cuales se destaca la televisora comunitaria Catia TVe (Caracas, Venezuela), una verdadera escuela de participación popular y combativa que recibe militantes y estudiosos de Venezuela, de América Latina y de diversos países del mundo\"",
+                        "Brasil",
+                        "0798-3069",
+                        "República Bolivariana de Venezuela"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=1815",
-                    "dc_rights": "Ciencias Holguín",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=705",
+                    "dc_rights": "Fermentum. Revista Venezolana de Sociología y Antropología",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Centro de Información y Gestión Tecnológica de Holguín",
-                    "dc_source": "Ciencias Holguín (Cuba) Num.3 Vol.XV"
+                    "dc_publisher": "Universidad de los Andes",
+                    "dc_source": "Fermentum. Revista Venezolana de Sociología y Antropología (República Bolivariana de Venezuela) Num.65 Vol.22"
                 }
             },
             {
                 "recordPacking": "xml",
-                "recordIdentifier": "672971000000",
+                "recordIdentifier": "281023000000",
                 "recordPosition": "200",
                 "recordData": {
-                    "dc_title": "Cambios de solubilidad de las proteínas de maíz durante el proceso de elaboración de la tortilla a diferentes tiempos de cocimiento",
+                    "dc_title": "Presentación",
                     "dc_creator": [
-                        "Francisco   Vásquez-Lara",
-                        "Benjamín   Ramírez-Wong",
-                        "Francisco Javier   Cinco-Moroyoqui"
+                        "Yolanda  Castro-Robles"
                     ],
                     "dc_subject": [
-                        "Multidisciplinaria (Ciencias Naturales y Exactas)",
-                        "10528;15283;15283"
+                        "Educación",
+                        "15253"
                     ],
-                    "dc_description": "Maíz||nixtamalización||solubilidad y fracciones proteínicas",
-                    "dc_date": "2010",
-                    "dc_type": "artículo científico",
+                    "dc_description": null,
+                    "dc_date": "2012",
+                    "dc_type": "editorial",
                     "dc_identifier": [
-                        "Centro de Investigación en Alimentación y Desarrollo, A.C.",
-                        "Universidad de Sonora",
-                        "CIAD",
-                        "USON",
-                        "\"El objetivo de esta investigación fue determinar el efecto del tiempo de cocimiento alcalino sobre los cambios en solubilidad que sufren las proteínas del maíz durante la obtención de los diferentes productos del proceso de elaboración de la tortilla. Lotes de 20 kg de maíz fueron sometidos a nixtamalización usando una concentración de cal de 1 % a temperatura de ebullición del agua. Se probaron tres tiempos de nixtamalización (25, 45 y 65 min). Después de 14 h de reposo, el maíz se lavó para obtener el nixtamal, el cual se llevó a una tortillería comercial para ser molido y elaborar los discos de masa que fueron cocidos en un horno de tres bandas. Las muestras obtenidas del proceso fueron maíz, nejayote, nixtamal, masa y tortilla a las cuales se les realizó extracción de proteínas por el método de Paulis (1975) y Paulis y Wall (1979). La cuantificación de las fracciones proteínicas se llevó a cabo por el método de Lowry modificado por Hartree (1972). Se utilizó un diseño factorial con dos factores: El tiempo de cocimiento (25, 45 o 65 min) y el tipo de producto obtenido (nejayote, nixtamal, masa y tortilla). Este diseño fue aplicado a cada fracción proteínica. A los datos obtenidos se les realizó un análisis de varianza con un nivel de significancia del 95 %. La fracción proteínica I (albúminas y globulinas) mostró los valores más altos de solubilidad en nejayote para los tres tiempos de cocimiento, mientras que para la fracción II (prolaminas) la solubilidad en nejayote, nixtamal, masa y tortilla se mantuvo casi constante a los 25 y 45 min de cocimiento, sin embargo, a los 65 min de cocimiento se observó un incremento significativo en nejayote y tortilla. La fracción proteínica III (gluteninas reducidas) mostró incrementos en solubilidad a partir de la obtención del nixtamal para los tres tiempos de cocimiento. La fracción proteínica IV (gluteninas) incrementó su solubilidad en la etapa de obtención del nixtamal, sin embargo, a partir de ese producto se presenta una disminución hasta la obtención de la tortilla.\"",
-                        "México",
-                        "1665-1456",
-                        "México"
+                        "Pontificia Universidad Javeriana",
+                        "PUJ",
+                        "Colombia",
+                        "2027-1174",
+                        "Colombia"
                     ],
                     "dc_language": "es",
-                    "dc_relation": "http://www.redalyc.org/revista.oa?id=6729",
-                    "dc_rights": "Biotecnia",
+                    "dc_relation": "http://www.redalyc.org/revista.oa?id=2810",
+                    "dc_rights": "Magis. Revista Internacional de Investigación en Educación",
                     "dc_format": "application/pdf",
-                    "dc_publisher": "Universidad de Sonora",
-                    "dc_source": "Biotecnia (México) Num.2 Vol.12"
+                    "dc_publisher": "Pontificia Universidad Javeriana",
+                    "dc_source": "Magis. Revista Internacional de Investigación en Educación (Colombia) Num.9 Vol.4"
                 }
             }
         ]
